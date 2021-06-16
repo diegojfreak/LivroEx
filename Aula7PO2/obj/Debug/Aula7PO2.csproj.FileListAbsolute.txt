@@ -1,0 +1,10 @@
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\Aula7PO2\Aula7PO2\bin\Debug\Aula7PO2.exe.config
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\Aula7PO2\Aula7PO2\bin\Debug\Aula7PO2.exe
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\Aula7PO2\Aula7PO2\bin\Debug\Aula7PO2.pdb
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\Aula7PO2\Aula7PO2\obj\Debug\Aula7PO2.csprojAssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\Aula7PO2\Aula7PO2\obj\Debug\Aula7PO2.Form1.resources
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\Aula7PO2\Aula7PO2\obj\Debug\Aula7PO2.Properties.Resources.resources
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\Aula7PO2\Aula7PO2\obj\Debug\Aula7PO2.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\Aula7PO2\Aula7PO2\obj\Debug\Aula7PO2.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\Aula7PO2\Aula7PO2\obj\Debug\Aula7PO2.exe
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\Aula7PO2\Aula7PO2\obj\Debug\Aula7PO2.pdb
